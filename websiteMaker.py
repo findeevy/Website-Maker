@@ -48,7 +48,7 @@ while i>0:
             websiteFile = websiteFile+"\np {color:"+str(input("Text Color:"))+";}"
             websiteFile = websiteFile+"\na {color:"+str(input("Link Color:"))+";}"
         elif(j=="2"):
-            if(input("Do you want to center align your website:")=="y"):
+            if(input("Do you want to center align your website (y/n):")=="y"):
                 websiteFile = websiteFile+"\nbody { width: 800px; margin: 0 auto; }"
         elif(j=="3"):
             websiteFile = websiteFile+"</style>"
