@@ -1,5 +1,5 @@
 import webbrowser
-#Import webrowser library so we can open user's website.
+#Import webbrowser library so we can open user's website.
 print("Welcome to the Website Maker by Fin Deevy")
 
 #Set the stage of the program to 0.
